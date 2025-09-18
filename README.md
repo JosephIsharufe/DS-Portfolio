@@ -1,5 +1,5 @@
 # Data scientist
-Hello i'm Isharufe Joseph Efeoghene - a Data Scientist and Ai Enthusiast Passionate about predictive analytics, applied machine learning, and building practical tools that solve real problems for every day businesses especially in the retail sector. I started with Waveccessories, solving my own business problems, and now I create solutions with Python, ML, NLP.
+Hello i'm Isharufe Joseph Efeoghene - a Data Scientist and Ai Enthusiast Passionate about predictive analytics, applied machine learning, and building practical tools that solve real problems for every day businesses especially in the retail sector. My interest in this field began with Waveccessories my own online store, solving my own business problems, and now I create solutions that benefits everyone using my knowledge in Python, Machine Learning & NLP.
 
 # Education
 Computer Science, BSC.
