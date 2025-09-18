@@ -7,10 +7,9 @@ Computer Science, BSC.
 # Certification.
 Associate Data Scientist (Data Camp), 2023.
 
-### 🔹 What I Do
-- Predictive Analysis & Business Forecasting  
-- Recommendation Systems & Customer Segmentation  
-- Data Apps with Flask & Python  
-- NLP for real-world text classification  
+### 🔹 Skills
+- **Langages: **Python (pandas,Numpy,Beautifulsoup,Playwright,scipy, Scikit-learn), Sql
+- **ML/AI: ** Regression, Classification, Clustering, Nlp, Model Deployment
+- **Other: ** A/B Testing, Statistical Inference, Data Visualization, Web Scraping
 
 📌 Explore my projects below ⬇️
