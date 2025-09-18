@@ -8,8 +8,8 @@ Computer Science, BSC.
 Associate Data Scientist (Data Camp), 2023.
 
 ### 🔹 Skills
-- **Langages: **Python (pandas,Numpy,Beautifulsoup,Playwright,scipy, Scikit-learn), Sql
-- **ML/AI: ** Regression, Classification, Clustering, Nlp, Model Deployment
-- **Other: ** A/B Testing, Statistical Inference, Data Visualization, Web Scraping
+- Langages: Python (pandas,Numpy,Beautifulsoup,Playwright,scipy, Scikit-learn), Sql
+- ML/AI: Regression, Classification, Clustering, Nlp, Model Deployment
+- Other: Web Scraping, EDA,  Data Visualization, A/B Testing, Statistical Inference 
 
 📌 Explore my projects below ⬇️
