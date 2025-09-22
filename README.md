@@ -13,5 +13,10 @@ Associate Data Scientist (Data Camp), 2023.
 - Other: Web Scraping, EDA,  Data Visualization, A/B Testing, Statistical Inference 
 
 #  Explore my projects below ⬇️
-  [Abuja Real Estate Analysis](https://github.com/JosephIsharufe/abuja-housing-data-science)  
+  **[Abuja Real Estate Analysis](https://github.com/JosephIsharufe/abuja-housing-data-science)** 
   Scraped real estate listings in Abuja, cleaned and analyzed the dataset, and built a regression model to predict house prices.
+
+   **[Nairarates-Bot](https://github.com/JosephIsharufe/Nairarates-Bot)**  
+  A lightweight exchange rate bot built to fetch and analyze daily currency exchange quotes.  
+  Initially designed for *Waveccessories* to simplify real-time access to USD/NGN rates, it combines web scraping and automation for business use cases.  
+
