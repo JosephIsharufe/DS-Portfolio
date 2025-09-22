@@ -20,3 +20,7 @@ Associate Data Scientist (Data Camp), 2023.
   A lightweight exchange rate bot built to fetch and analyze daily currency exchange quotes.  
   Initially designed for *Waveccessories* to simplify real-time access to USD/NGN rates, it combines web scraping and automation for business use cases.  
 
+**[ExpenseTracker](https://github.com/JosephIsharufe/expensetracker)**  
+  A simple yet effective expense tracking app to log, categorize, and analyze personal spending patterns.  
+  Designed to improve financial awareness and budgeting by providing clear insights into where money goes.
+
