@@ -12,6 +12,6 @@ Associate Data Scientist (Data Camp), 2023.
 - ML/AI: Regression, Classification, Clustering, Nlp, Model Deployment
 - Other: Web Scraping, EDA,  Data Visualization, A/B Testing, Statistical Inference 
 
-📌 Explore my projects below ⬇️
-[Abuja Real Estate Analysis](https://github.com/JosephIsharufe/abuja-housing-data-science)  
+#  Explore my projects below ⬇️
+  [Abuja Real Estate Analysis](https://github.com/JosephIsharufe/abuja-housing-data-science)  
   Scraped real estate listings in Abuja, cleaned and analyzed the dataset, and built a regression model to predict house prices.
