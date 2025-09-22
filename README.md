@@ -13,3 +13,5 @@ Associate Data Scientist (Data Camp), 2023.
 - Other: Web Scraping, EDA,  Data Visualization, A/B Testing, Statistical Inference 
 
 📌 Explore my projects below ⬇️
+[Abuja Real Estate Analysis](https://github.com/YourUsername/abuja-real-estate-analysis)  
+  Scraped real estate listings in Abuja, cleaned and analyzed the dataset, and built a regression model to predict house prices.
