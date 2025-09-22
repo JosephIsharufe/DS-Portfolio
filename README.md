@@ -16,11 +16,10 @@ Associate Data Scientist (Data Camp), 2023.
   **[Abuja Real Estate Analysis](https://github.com/JosephIsharufe/abuja-housing-data-science)** 
   Scraped real estate listings in Abuja, cleaned and analyzed the dataset, and built a regression model to predict house prices.
 
-   **[Nairarates-Bot](https://github.com/JosephIsharufe/Nairarates-Bot)**  
+  **[Nairarates-Bot](https://github.com/JosephIsharufe/Nairarates-Bot)**  
   A lightweight exchange rate bot built to fetch and analyze daily currency exchange quotes.  
   Initially designed for *Waveccessories* to simplify real-time access to USD/NGN rates, it combines web scraping and automation for business use cases.  
 
-**[ExpenseTracker](https://github.com/JosephIsharufe/expensetracker)**  
-  A simple yet effective expense tracking app to log, categorize, and analyze personal spending patterns.  
-  Designed to improve financial awareness and budgeting by providing clear insights into where money goes.
+ **[ExpenseTracker](https://github.com/JosephIsharufe/expensetracker)**  
+ This project is an intelligent expense and income tracker that supports both single and multiple projects. It leverages Google GenAI to automatically categorize transactions based on user descriptions and allows seamless conversion of transaction logs from CSV to Excel format for better visualization.
 
